@@ -1,0 +1,24 @@
+
+@'
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+
+# System files
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Virtual environments
+venv/
+env/
+'@ | Out-File .gitignore -Encoding utf8

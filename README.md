@@ -7,7 +7,7 @@
 ## Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Arisha-solnyshko/Practika
+   git clone https://github.com/Arisha-solnyshko/Practica_2
    cd ваш-репозиторий
    ```
 
